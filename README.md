@@ -4,7 +4,7 @@
 
 ### Install
 ```bash
-git clone 
+git clone https://github.com/agroimpacts/cloudtools.git
 cd cloudtools
 pip install .
 ```
